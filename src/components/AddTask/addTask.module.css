@@ -1,0 +1,10 @@
+.todoForm {
+  border:1px solid gray;
+  width: 100%;
+}
+.todoForm{
+  display: flex;
+  justify-content: space-between;
+  padding-left: 10px;
+  padding-right:10px
+}

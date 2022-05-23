@@ -1,0 +1,11 @@
+.taskApp {
+  border:1px solid black;
+  text-align: center;
+  max-height:400px;
+  min-height: 300px;
+  width: 30%;
+  /* display: flex; */
+  justify-content: center;
+  margin-left: 35%;
+  border-radius: 5px;
+}
